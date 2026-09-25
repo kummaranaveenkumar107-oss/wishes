@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: durgabhavani-birthday
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
